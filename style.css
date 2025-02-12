@@ -715,6 +715,10 @@ a:active,a:focus {
 .entry-content {
 	white-space:normal;
 }
+.entry-content p{
+	font-size: 16px;
+	color: rgb(119 116 116 / 90%);
+}
 .entry-content p:last-child {
 	margin-bottom:0;
 }
