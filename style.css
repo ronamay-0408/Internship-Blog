@@ -2312,3 +2312,13 @@ h1, h2, h3, h4, h5, h6 {
 		flex-wrap: wrap;
 	}
 }
+
+.back-next-btn{
+	display: flex;
+	padding: 8px 0px;
+	gap: 10px;
+}
+.back-next-btn a{
+	padding: 5px 10px;
+	background-color: #333;
+}
